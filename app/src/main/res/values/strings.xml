@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ControlesUsuarios</string>
+
+    <string name="entradas_texto">Entradas de Texto y Combos</string>
+    <string name="botones">Botones</string>
+    <string name="radio">Radios</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="mes">Mes</string>
+    <string name="clave">Contraseña</string>
+
+    <string name="imprimir">Imprimir</string>
+
+    <string name="dias">Dias</string>
+
+    <string name="error">Mostrar Error</string>
+    <string name="limpiar_error">Limpiar Error</string>
+
+    <string name="error_campo_requerido">Campo requerido</string>
+
+    <string name="boton_normal">Botón Normal</string>
+    <string name="boton_outlined">Botón Outlined</string>
+    <string name="boton_text">Botón Text</string>
+
+    <string name="boton_uno">Botón 1</string>
+    <string name="boton_dos">Botón 2</string>
+    <string name="boton_tres">Botón 3</string>
+
+    <string name="resultado_">Resultado\nNombre: %s\nMes: %s\nContraseña:%s</string>
+
+    <string name="mensaje_boton_normal">Click en el botón normal</string>
+    <string name="mensaje_boton_outlined">Click en el botón Outlined</string>
+    <string name="mensaje_boton_text">Click en el botón texto</string>
+
+    <string name="mensaje_estado_boton">¿El botón %s, está seleccionado? %b</string>
+    <string name="opcion_uno">Opción 1</string>
+    <string name="opcion_dos">Opción 2</string>
+    <string name="opcion_tres">Opción 3</string>
+    <string name="opcion_cuatro">Opción 4</string>
+    <string name="aceptar_terminos">Aceptar los términos y condiciones del uso de la App</string>
+
+
+</resources>
